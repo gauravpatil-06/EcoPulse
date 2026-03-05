@@ -1,0 +1,22 @@
+# Dependencies
+client/node_modules/
+server/node_modules/
+
+# Build and Production
+client/dist/
+
+# Environment Variables
+client/.env
+server/.env
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
